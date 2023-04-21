@@ -1,0 +1,32 @@
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+All credit for this script goes to Ghostrider [GRG] - Visit Ghostriders github at: https://github.com/Ghostrider-DbD-
+Install instructions by Nicho1494.
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+//GRG Flip Vehicle - Epoch//
+	
+//Step 1;
+
+	Download the file "Flip-Vehicle---Epoch-main" and extract it to your documents.
+	
+	Unpack your MPMission - epoch.Altis.pbo (Changes dependable on the map you are using)
+
+//Step 2;
+	
+	Merge the  init.sqf files with the one already in your MPMissions file. (If you do not have an init.sqf already, just copy and paste the one included).
+	
+	Copy the "Scripts" folder to the main directory of you MPMission folder.
+	
+	Merge the CfgActionMenu_target.hpp with your file which can be found at: "epoch.Altis\epoch_config\Configs\CfgActionMenu\CfgActionMenu_target.hpp"
+	
+	
+//Step 3;
+
+	Repack your file and upload to your server.
+	
+	Restart your server and ensure no errors are present in your RPT - Flip can be activted by holding the space bar whilst looking at the vehicle and selecting "Fllip"
+
+Additional scripts are avalible from GhostriderGaming [GRG] - Find the link at the top of this file!
+
+	
+//////////////////////////////////////////////////////////////////////////////////////////////////////
